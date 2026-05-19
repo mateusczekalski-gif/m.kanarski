@@ -11,6 +11,9 @@
 
 sou uma pessoa tranquila
 
+<img src="[URL_IMAGEM](https://i.imgur.com/W6uLjwe_d.webp?maxwidth=760&fidelity=grand)" width="450" alt="GIF" style="border-radius: 0px;"/>
+
+
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="500" alt="GIF" style="border-radius: 12px;"/>
 </p>
